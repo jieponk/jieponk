@@ -1,0 +1,16 @@
+JIEPONK GITHUB PROFILE — SETUP
+
+1. Extract this ZIP.
+2. Upload these into the root of repository: jieponk/jieponk
+   - README.md
+   - assets/ folder
+   - .github/ folder
+3. Commit the files to the main branch.
+4. Open the Actions tab in GitHub.
+5. Run "Generate contribution snake" once manually (Run workflow).
+6. Wait around 1–2 minutes, then refresh github.com/jieponk.
+
+Notes:
+- banner.png, avatar.png, and trophy-wall.png are local assets, so they do not depend on random image hosts.
+- The trophy wall is decorative. It is intentionally static so it always looks full.
+- The snake is generated from your real GitHub contribution data and updates automatically every 12 hours.
