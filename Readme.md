@@ -4,9 +4,15 @@
 
 <br>
 
-# Rudi Parwanto
+# Hi, I'm Rudi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=39D353&center=true&vCenter=true&width=760&lines=E-Commerce+Systems+%26+Automation;building+tools+for+real+workflows;pricing+%E2%86%92+data+%E2%86%92+automation;code.+coffee.+ship.+repeat." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=39D353&center=true&vCenter=true&width=760&lines=E-Commerce+Specialist+%C2%B7+Jakarta%2C+Indonesia;building+tools+for+real+workflows;pricing+%E2%86%92+data+%E2%86%92+automation;shipped%3A+urbanix.id+%C2%B7+masrudi.site;code.+coffee.+ship.+repeat." alt="Typing animation" />
+
+<a href="https://masrudi.site"><img src="https://img.shields.io/badge/portfolio-masrudi.site-0a84ff?style=for-the-badge&labelColor=161b22" alt="portfolio: masrudi.site" /></a>
+<a href="https://urbanix.id"><img src="https://img.shields.io/badge/store-urbanix.id-f97316?style=for-the-badge&labelColor=161b22" alt="store: urbanix.id" /></a>
+<a href="https://masrudi.site/blog/"><img src="https://img.shields.io/badge/blog-notes-8b5cf6?style=for-the-badge&labelColor=161b22" alt="blog: notes" /></a>
+<a href="https://www.linkedin.com/in/rudiparwanto/"><img src="https://img.shields.io/badge/linkedin-rudiparwanto-0a66c2?style=for-the-badge&labelColor=161b22" alt="linkedin: rudiparwanto" /></a>
+<a href="mailto:jieponk@gmail.com"><img src="https://img.shields.io/badge/email-jieponk%40gmail.com-39d353?style=for-the-badge&labelColor=161b22" alt="email: jieponk@gmail.com" /></a>
 
 `systems` · `automation` · `marketplace` · `web` · `data`
 
@@ -20,13 +26,15 @@
 
 ### `> whoami`
 
-```text
-Rudi Parwanto
-E-Commerce Specialist
-Indonesia
-
-building practical systems
-for repetitive workflows.
+```js
+const rudi = {
+  role:     "E-Commerce Specialist",
+  company:  "PT Koolsnap Multi Retailindo",
+  stores:   ["Aneka Foto", "Urbanix", "GearNest"],
+  base:     "Jakarta, Indonesia",
+  focus:    "systems for repetitive workflows",
+  award:    "Shopee Award 2024 — Best Seller",
+};
 ```
 
 </td>
@@ -35,12 +43,75 @@ for repetitive workflows.
 ### `> currently_building`
 
 ```text
-marketplace-pricing-center/
-ecommerce-automation/
-personal-portfolio/
-blog-cms/
-experiments/
+📦 marketplace-pricing-center/
+⚙️  ecommerce-automation/
+🌐 personal-portfolio/   → masrudi.site
+✍️  blog-cms/             → /blog
+🧪 experiments/
 ```
+
+</td>
+</tr>
+</table>
+
+## `> featured.projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://urbanix.id"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/urbanix-dark.jpg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/urbanix-light.jpg" /><img src="./assets/projects/urbanix-dark.jpg" width="100%" alt="urbanix.id storefront" /></picture></a>
+
+### 🛒 [urbanix.id](https://urbanix.id)
+Online store for creator gear — **built solo from scratch**.
+±211 products synced · WhatsApp/Shopee checkout · Seller Center · Google Merchant feed · daily backups.
+
+`Next.js 14` `Django 5.2` `PostgreSQL` `Redis` `Docker` `Cloudflare`
+
+**[Live](https://urbanix.id)** · **[Code](https://github.com/jieponk/urbanix-store)**
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://masrudi.site"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/portfolio-dark.jpg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/portfolio-light.jpg" /><img src="./assets/projects/portfolio-dark.jpg" width="100%" alt="masrudi.site portfolio" /></picture></a>
+
+### 💻 [masrudi.site](https://masrudi.site)
+Portfolio + blog styled as **VS Code on macOS** — dark/light, EN/ID, ⌘K search, blog CMS.
+
+`JavaScript` `CSS` `Cloudflare Workers` `Sveltia CMS`
+
+**[Live](https://masrudi.site)** · **[Code](https://github.com/jieponk/rudi-parwanto-portfolio)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://masrudi.site/#projects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/calculator-dark.jpg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/calculator-light.jpg" /><img src="./assets/projects/calculator-dark.jpg" width="100%" alt="Marketplace fee calculator (example data)" /></picture></a>
+
+### 🧮 Marketplace Pricing Calculator
+Internal tool used by the Aneka Foto team: net income & margin per marketplace (Shopee, GearNest, TikTok Shop, Blibli) before setting a price. *Screenshot uses example data.*
+
+`JavaScript` `Cloudflare Workers` `REST API`
+
+🔒 Internal — no public demo
+
+</td>
+<td width="50%" valign="top">
+
+### `> career.log`
+
+```diff
++ 2026 → now   E-Commerce Specialist
++              PT Koolsnap Multi Retailindo
++ 2023 → 2026  E-Commerce Specialist
++              PT Sinar Agung Indotama
+! 2024         Shopee Award · Best Seller
+  2019 → 2023  Retail & store operations
+  2017 → 2019  Marketplace Admin
+```
+
+**5+ years** in marketplace operations, product SEO, campaigns and sales analysis.
 
 </td>
 </tr>
@@ -193,6 +264,6 @@ jieponk@github:~$ ./status
 [→] keep building...
 ```
 
-<a href="https://github.com/jieponk">GitHub</a> · <a href="https://rudiparwanto.netlify.app">Portfolio</a>
+**[masrudi.site](https://masrudi.site)** · **[urbanix.id](https://urbanix.id)** · **[LinkedIn](https://www.linkedin.com/in/rudiparwanto/)** · **[Email](mailto:jieponk@gmail.com)**
 
 </div>
