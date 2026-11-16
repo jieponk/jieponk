@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets (snake + trophies)
 
 on:
   schedule:
@@ -17,6 +17,9 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate GitHub contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,7 +28,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake to output branch
+      - name: Generate trophies from real GitHub stats
+        run: node scripts/trophy.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Publish snake and trophies to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

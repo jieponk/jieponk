@@ -107,6 +107,8 @@ const rudi = {
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jieponk&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Contribution%20activity%20%C2%B7%20last%2030%20days" alt="Contribution activity graph" />
 
+<img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/trophies.svg" alt="GitHub trophies" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jieponk/jieponk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jieponk/jieponk/output/github-contribution-grid-snake.svg" />
@@ -115,13 +117,6 @@ const rudi = {
 
 </div>
 
-<details>
-<summary><b>🏆 Trophies</b></summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jieponk&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-</div>
-</details>
 
 <details>
 <summary><b>💻 <code>./status</code></b></summary>
