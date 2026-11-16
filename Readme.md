@@ -51,7 +51,7 @@
 
 <img src="./assets/sections/stack.svg" width="100%" alt="stack" />
 
-<table>
+<table width="100%">
 <tr><td><b>Languages</b></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,php,go,cs,powershell,bash&perline=12&theme=light" /><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,php,go,cs,powershell,bash&perline=12&theme=dark" height="40" alt="html, css, js, ts, py, java, kotlin, php, go, cs, powershell, bash" /></picture></td></tr>
 <tr><td><b>Frontend</b></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite&perline=12&theme=light" /><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite&perline=12&theme=dark" height="40" alt="react, nextjs, redux, tailwind, bootstrap, vite" /></picture></td></tr>
 <tr><td><b>Backend & API</b></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,graphql,postman,npm&perline=12&theme=light" /><img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,postman,npm&perline=12&theme=dark" height="40" alt="nodejs, express, django, graphql, postman, npm" /></picture></td></tr>
@@ -67,10 +67,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jieponk&theme=tokyonight" alt="GitHub stats" />
-<img height="180" src="https://streak-stats.demolab.com/?user=jieponk&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+<img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/stats.svg" alt="GitHub stats" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jieponk&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Contribution%20activity%20%C2%B7%20last%2030%20days" alt="Contribution activity graph" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=jieponk&background=0D1117&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=58A6FF&currStreakLabel=39D353&sideLabels=E6EDF3&dates=8B949E&border_radius=14&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jieponk&bg_color=0d1117&color=8b949e&line=39d353&point=e6edf3&area=true&area_color=39d353&title_color=e6edf3&hide_border=false&radius=14&height=300&custom_title=last%2030%20days" alt="Contribution activity graph" />
 
 <img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/trophies.svg" alt="GitHub trophies" />
 
