@@ -102,8 +102,10 @@ const rudi = {
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jieponk&theme=github_dark" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jieponk&theme=github_dark" alt="Repositories per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jieponk&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=jieponk&theme=tokyonight&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jieponk&theme=tokyo-night&hide_border=true&area=true&radius=6&custom_title=Contribution%20activity%20%C2%B7%20last%2030%20days" alt="Contribution activity graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jieponk/jieponk/output/github-contribution-grid-snake-dark.svg" />
