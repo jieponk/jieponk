@@ -2,10 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Rudi Parwanto — E-Commerce Specialist. Building tools for real workflows." />
 
-# Hi, I'm Rudi 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=39D353&center=true&vCenter=true&width=760&lines=E-Commerce+Specialist+%C2%B7+Jakarta%2C+Indonesia;building+tools+for+real+workflows;pricing+%E2%86%92+data+%E2%86%92+automation;shipped%3A+urbanix.id+%C2%B7+masrudi.site;code.+coffee.+ship.+repeat." alt="Typing animation" />
-
 <a href="https://masrudi.site"><img src="https://img.shields.io/badge/portfolio-masrudi.site-0a84ff?style=flat-square&labelColor=161b22" alt="portfolio: masrudi.site" /></a>
 <a href="https://urbanix.id"><img src="https://img.shields.io/badge/store-urbanix.id-f97316?style=flat-square&labelColor=161b22" alt="store: urbanix.id" /></a>
 <a href="https://masrudi.site/blog/"><img src="https://img.shields.io/badge/blog-notes-8b5cf6?style=flat-square&labelColor=161b22" alt="blog" /></a>
@@ -14,40 +10,9 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/sections/about.svg" width="100%" alt="whoami: E-Commerce Specialist at PT Koolsnap Multi Retailindo (Aneka Foto, Urbanix, GearNest), Jakarta. Career: 2026–now Koolsnap; 2024 Shopee Award Best Seller; 2023–2026 PT Sinar Agung Indotama; 2019–2023 retail & store operations; 2017–2019 marketplace admin." />
 
-**`> whoami`**
-
-```js
-const rudi = {
-  role:    "E-Commerce Specialist",
-  company: "PT Koolsnap Multi Retailindo",
-  stores:  ["Aneka Foto", "Urbanix", "GearNest"],
-  base:    "Jakarta, Indonesia",
-  award:   "Shopee Award 2024 — Best Seller",
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`> career.log`**
-
-```diff
-+ 2026 → now   E-Commerce Specialist · Koolsnap
-+ 2023 → 2026  E-Commerce Specialist · Sinar Agung
-! 2024         Shopee Award · Best Seller
-  2019 → 2023  Retail & store operations
-  2017 → 2019  Marketplace Admin
-```
-
-</td>
-</tr>
-</table>
-
-## `> featured.projects`
+<img src="./assets/sections/projects.svg" width="100%" alt="featured.projects" />
 
 <table>
 <tr>
@@ -84,7 +49,7 @@ const rudi = {
 </tr>
 </table>
 
-## `> stack`
+<img src="./assets/sections/stack.svg" width="100%" alt="stack" />
 
 <table>
 <tr><td><b>Languages</b></td><td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,php,go,cs,powershell,bash&perline=12&theme=light" /><img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,php,go,cs,powershell,bash&perline=12&theme=dark" height="40" alt="html, css, js, ts, py, java, kotlin, php, go, cs, powershell, bash" /></picture></td></tr>
@@ -98,7 +63,7 @@ const rudi = {
 
 <sub>Also: Socket.IO · JWT · Oracle · Render · Excel · Canva · React Router</sub>
 
-## `> github.stats`
+<img src="./assets/sections/stats.svg" width="100%" alt="github.stats" />
 
 <div align="center">
 
@@ -118,19 +83,4 @@ const rudi = {
 </div>
 
 
-<details>
-<summary><b>💻 <code>./status</code></b></summary>
-
-```text
-jieponk@github:~$ ./status
-[✓] building systems
-[✓] automating workflows
-[✓] shipping projects
-[✓] breaking things
-[✓] fixing them again
-[→] keep building...
-```
-
-</details>
-
-<div align="center"><sub><b>code. coffee. ship. repeat.</b></sub></div>
+<img src="./assets/sections/footer.svg" width="100%" alt="./status — building systems, automating workflows, shipping projects. code. coffee. ship. repeat." />
