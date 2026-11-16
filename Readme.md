@@ -69,8 +69,10 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/stats.svg" alt="GitHub stats" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=jieponk&background=0D1117&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=58A6FF&currStreakLabel=39D353&sideLabels=E6EDF3&dates=8B949E&border_radius=14&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jieponk&bg_color=0d1117&color=8b949e&line=39d353&point=e6edf3&area=true&area_color=39d353&title_color=e6edf3&hide_border=false&radius=14&height=300&custom_title=last%2030%20days" alt="Contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jieponk&bg_color=0d1117&color=8b949e&line=39d353&point=e6edf3&area=true&area_color=39d353&title_color=e6edf3&hide_border=false&radius=14&custom_title=last%2030%20days" alt="Contribution activity graph" />
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=jieponk&background=0D1117&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=58A6FF&currStreakLabel=39D353&sideLabels=E6EDF3&dates=8B949E&border_radius=14&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+
 
 <img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/trophies.svg" alt="GitHub trophies" />
 
