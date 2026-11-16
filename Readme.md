@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Rudi Parwanto — E-Commerce Systems & Automation" />
+<img src="./assets/banner.svg" width="100%" alt="Rudi Parwanto — E-Commerce Specialist. Building tools for real workflows." />
 
 # Hi, I'm Rudi 👋
 
