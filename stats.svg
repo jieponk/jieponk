@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="196" viewBox="0 0 1200 196" role="img" aria-label="GitHub stats">
+<style>
+  text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+  .v{font-size:38px;font-weight:800}.k{font-size:14px;font-weight:700;fill:#e6edf3}.s{font-size:11.5px;fill:#8b949e}
+  .bar{transform-box:fill-box;transform-origin:left;animation:grow 1.2s ease-out both}
+  @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  .blink{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="1199" height="195" rx="14" fill="#0d1117" stroke="#30363d"/>
+<path d="M14.5 .5h1171a14 14 0 0 1 14 14V34H.5V14.5a14 14 0 0 1 14-14z" fill="#161b22"/>
+<line x1="0" y1="34" x2="1200" y2="34" stroke="#30363d"/><circle cx="22" cy="17" r="6" fill="#ff5f57"/><circle cx="42" cy="17" r="6" fill="#febc2e"/><circle cx="62" cy="17" r="6" fill="#28c840"/>
+<text x="600" y="22" text-anchor="middle" font-size="12.5" fill="#8b949e">gh api users/jieponk — live stats</text>
+<text x="1176" y="22" text-anchor="end" font-size="11" fill="#6a9955">updated 2026-11-28</text>
+<text x="40" y="62" font-size="13"><tspan fill="#39d353">❯</tspan><tspan fill="#e6edf3"> stats --summary</tspan></text>
+<rect class="blink" x="180" y="51" width="8" height="15" fill="#39d353"/>
+<g class="col" style="animation-delay:0ms">
+      <text x="40" y="108" class="v" fill="#39d353">241</text>
+      <text x="40" y="134" class="k">commits</text>
+      <text x="40" y="152" class="s">last 12 months</text>
+      <rect x="40" y="166" width="150" height="3" rx="1.5" fill="#21262d"/>
+      <rect x="40" y="166" width="150" height="3" rx="1.5" fill="#39d353" class="bar" style="animation-delay:0ms"/>
+    </g><g class="col" style="animation-delay:120ms">
+      <text x="228" y="108" class="v" fill="#58a6ff">253</text>
+      <text x="228" y="134" class="k">contributions</text>
+      <text x="228" y="152" class="s">last 12 months</text>
+      <rect x="228" y="166" width="150" height="3" rx="1.5" fill="#21262d"/>
+      <rect x="228" y="166" width="150" height="3" rx="1.5" fill="#58a6ff" class="bar" style="animation-delay:120ms"/>
+    </g><g class="col" style="animation-delay:240ms">
+      <text x="416" y="108" class="v" fill="#bf91f3">1</text>
+      <text x="416" y="134" class="k">pull requests</text>
+      <text x="416" y="152" class="s">all time</text>
+      <rect x="416" y="166" width="150" height="3" rx="1.5" fill="#21262d"/>
+      <rect x="416" y="166" width="150" height="3" rx="1.5" fill="#bf91f3" class="bar" style="animation-delay:240ms"/>
+    </g><g class="col" style="animation-delay:360ms">
+      <text x="604" y="108" class="v" fill="#ffa657">5</text>
+      <text x="604" y="134" class="k">issues</text>
+      <text x="604" y="152" class="s">all time</text>
+      <rect x="604" y="166" width="150" height="3" rx="1.5" fill="#21262d"/>
+      <rect x="604" y="166" width="150" height="3" rx="1.5" fill="#ffa657" class="bar" style="animation-delay:360ms"/>
+    </g><g class="col" style="animation-delay:480ms">
+      <text x="792" y="108" class="v" fill="#ffd166">2</text>
+      <text x="792" y="134" class="k">stars</text>
+      <text x="792" y="152" class="s">earned</text>
+      <rect x="792" y="166" width="150" height="3" rx="1.5" fill="#21262d"/>
+      <rect x="792" y="166" width="150" height="3" rx="1.5" fill="#ffd166" class="bar" style="animation-delay:480ms"/>
+    </g><g class="col" style="animation-delay:600ms">
+      <text x="980" y="108" class="v" fill="#4ec9b0">1</text>
+      <text x="980" y="134" class="k">contributed to</text>
+      <text x="980" y="152" class="s">repositories</text>
+      <rect x="980" y="166" width="150" height="3" rx="1.5" fill="#21262d"/>
+      <rect x="980" y="166" width="150" height="3" rx="1.5" fill="#4ec9b0" class="bar" style="animation-delay:600ms"/>
+    </g>
+</svg>
