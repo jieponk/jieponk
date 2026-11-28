@@ -18,12 +18,12 @@
 <tr>
 <td width="33%" valign="top">
 
-<a href="https://urbanix.id"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/urbanix-dark.jpg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/urbanix-light.jpg" /><img src="./assets/projects/urbanix-dark.jpg" width="100%" alt="urbanix.id storefront" /></picture></a>
+<a href="https://urbanix.id"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/urbanix-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/projects/urbanix-light.svg" /><img src="./assets/projects/urbanix-dark.svg" width="100%" alt="urbanix.id storefront: Gajian Sale event, vouchers and product grid" /></picture></a>
 
 **🛒 [urbanix.id](https://urbanix.id)**<br>
-<sub>Creator-gear store, built solo. ±211 products, Seller Center, Merchant feed.</sub><br>
+<sub>Creator-gear store, built solo. 212 products on Google Shopping, Seller Center, web checkout, PageSpeed 99 (mobile).</sub><br>
 <sub>`Next.js` `Django` `PostgreSQL` `Docker`</sub><br>
-<sub>[Live](https://urbanix.id) · [Code](https://github.com/jieponk/urbanix-store)</sub>
+<sub>[Live](https://urbanix.id) · 🔒 Private repo</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -69,10 +69,9 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/stats.svg" alt="GitHub stats" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jieponk&bg_color=0d1117&color=8b949e&line=39d353&point=e6edf3&area=true&area_color=39d353&title_color=e6edf3&hide_border=false&radius=14&custom_title=last%2030%20days" alt="Contribution activity graph" />
+<img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/activity.svg" alt="Contribution activity, last 30 days" />
 
 <img width="60%" src="https://streak-stats.demolab.com/?user=jieponk&background=0D1117&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=58A6FF&currStreakLabel=39D353&sideLabels=E6EDF3&dates=8B949E&border_radius=14&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-
 
 <img width="100%" src="https://raw.githubusercontent.com/jieponk/jieponk/output/trophies.svg" alt="GitHub trophies" />
 
@@ -83,6 +82,5 @@
 </picture>
 
 </div>
-
 
 <img src="./assets/sections/footer.svg" width="100%" alt="./status — building systems, automating workflows, shipping projects. code. coffee. ship. repeat." />

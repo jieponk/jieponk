@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-label="urbanix.id home page (dark)">
+<rect width="1200" height="750" fill="#111111"/>
+<rect width="1200" height="44" fill="#0d0d0d"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/>
+<circle cx="44" cy="22" r="6" fill="#febc2e"/>
+<circle cx="64" cy="22" r="6" fill="#28c840"/>
+<rect x="380" y="10" width="440" height="24" rx="12" fill="#1a1a1a"/>
+<text x="600" y="27" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#9aa0a6">urbanix.id</text>
+<rect y="44" width="1200" height="30" fill="#191919"/>
+<rect x="438" y="51" width="38" height="16" rx="8" fill="#E30220"/><text x="457" y="63" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#fff">25</text>
+<text x="484" y="64" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#F3F4F6"><tspan font-weight="700">Gajian Sale</tspan> sedang berlangsung · <tspan text-decoration="underline">Lihat semua diskon</tspan></text>
+<rect y="74" width="1200" height="72" fill="#1c1c1c"/><line x1="0" y1="146" x2="1200" y2="146" stroke="#2e2e2e"/>
+<image href="data:image/png;base64,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" x="40" y="90" width="50.0" height="40"/>
+<text x="98" y="108" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="17" font-weight="800" letter-spacing="3" fill="#F3F4F6">URBANIX</text>
+<text x="98" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#9aa0a6">Capture Your Style</text>
+<text x="222" y="115" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#F3F4F6">Kategori</text>
+<text x="312" y="115" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#F3F4F6">Promo</text>
+<text x="384" y="115" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#F3F4F6">Inspirasi</text>
+<rect x="500" y="92" width="420" height="38" rx="19" fill="#2a2a2a"/>
+<circle cx="524" cy="110" r="7" fill="none" stroke="#9aa0a6" stroke-width="2"/><line x1="529" y1="115" x2="534" y2="120" stroke="#9aa0a6" stroke-width="2"/>
+<text x="544" y="116" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#9aa0a6">Cari kamera, lensa, mic…</text>
+<rect x="960" y="96" width="30" height="30" rx="8" fill="none" stroke="#F3F4F6" stroke-width="1.6"/>
+<rect x="1006" y="96" width="30" height="30" rx="8" fill="none" stroke="#F3F4F6" stroke-width="1.6"/>
+<rect x="1052" y="96" width="30" height="30" rx="8" fill="none" stroke="#F3F4F6" stroke-width="1.6"/>
+<text x="1110" y="116" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#F3F4F6">ID/EN</text>
+<rect x="40" y="170" width="720" height="250" rx="22" fill="#1c1c1c" stroke="#2e2e2e"/>
+<text x="560" y="350" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="200" font-weight="900" fill="#262626">25</text>
+<rect x="72" y="200" width="150" height="24" rx="12" fill="#E30220" opacity=".12"/><circle cx="88" cy="212" r="4" fill="#E30220"/>
+<text x="100" y="217" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1.5" fill="#E30220">EVENT TERBATAS</text>
+<text x="72" y="276" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#F3F4F6">Gajian Sale</text>
+<text x="72" y="308" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#9aa0a6">Gajian datang, waktunya upgrade gear: diskon sampai 69%,</text>
+<text x="72" y="330" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" fill="#9aa0a6">original &amp; bergaransi.</text>
+<rect x="72" y="352" width="180" height="44" rx="22" fill="#F3F4F6"/><text x="162" y="380" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#111111">Belanja sekarang →</text>
+<text x="276" y="380" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#9aa0a6">Berakhir dalam</text>
+<rect x="376" y="362" width="34" height="26" rx="6" fill="#191919"/><text x="393" y="380" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#fff">02</text>
+<rect x="418" y="362" width="34" height="26" rx="6" fill="#191919"/><text x="435" y="380" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#fff">14</text>
+<rect x="460" y="362" width="34" height="26" rx="6" fill="#191919"/><text x="477" y="380" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#fff">37</text>
+<text x="790" y="194" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#F3F4F6">Klaim voucher</text>
+<rect x="790" y="212" width="370" height="98" rx="16" fill="#222222" stroke="#2e2e2e"/>
+<path d="M806 212h66v98h-66a16 16 0 0 1-16-16v-66a16 16 0 0 1 16-16z" fill="#E30220"/>
+<circle cx="872" cy="212" r="8" fill="#111111"/><circle cx="872" cy="310" r="8" fill="#111111"/>
+<text x="831" y="268" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">8%</text>
+<text x="892" y="248" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#F3F4F6">Diskon 8% s/d Rp200.000</text>
+<text x="892" y="270" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#9aa0a6">Min. belanja Rp1.000.000</text>
+<rect x="1078" y="276" width="66" height="24" rx="12" fill="#F3F4F6"/><text x="1111" y="293" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#111111">Klaim</text>
+<rect x="790" y="322" width="370" height="98" rx="16" fill="#222222" stroke="#2e2e2e"/>
+<path d="M806 322h66v98h-66a16 16 0 0 1-16-16v-66a16 16 0 0 1 16-16z" fill="#333333"/>
+<circle cx="872" cy="322" r="8" fill="#111111"/><circle cx="872" cy="420" r="8" fill="#111111"/>
+<text x="831" y="378" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">Ongkir</text>
+<text x="892" y="358" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#F3F4F6">Gratis ongkir s/d Rp40.000</text>
+<text x="892" y="380" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#9aa0a6">Tanpa min. belanja</text>
+<rect x="1078" y="386" width="66" height="24" rx="12" fill="#F3F4F6"/><text x="1111" y="403" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#111111">Klaim</text>
+<text x="40" y="462" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#F3F4F6">Gajian Sale 25.11</text>
+<text x="1160" y="462" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#E30220">Lihat semua →</text>
+<rect x="40" y="480" width="212" height="250" rx="16" fill="#222222" stroke="#2e2e2e"/>
+<rect x="50" y="490" width="192" height="140" rx="10" fill="#2b2b2b"/>
+<g transform="translate(106,520) scale(1.0)" fill="none" stroke="#4a4a4a" stroke-width="5" stroke-linejoin="round"><rect x="4" y="16" width="72" height="48" rx="8"/><path d="M24 16l6-10h20l6 10"/><circle cx="40" cy="40" r="14"/></g>
+<rect x="58" y="498" width="44" height="20" rx="10" fill="#E30220"/><text x="80" y="512" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#fff">-25%</text>
+<rect x="54" y="646" width="170" height="10" rx="5" fill="#2a2a2a"/><rect x="54" y="664" width="120" height="10" rx="5" fill="#2a2a2a"/>
+<rect x="54" y="688" width="96" height="14" rx="7" fill="#E30220" opacity=".85"/>
+<rect x="54" y="710" width="60" height="8" rx="4" fill="#2a2a2a"/>
+<rect x="268" y="480" width="212" height="250" rx="16" fill="#222222" stroke="#2e2e2e"/>
+<rect x="278" y="490" width="192" height="140" rx="10" fill="#2b2b2b"/>
+<g transform="translate(334,520) scale(1.0)" fill="none" stroke="#4a4a4a" stroke-width="5" stroke-linejoin="round"><rect x="4" y="16" width="72" height="48" rx="8"/><path d="M24 16l6-10h20l6 10"/><circle cx="40" cy="40" r="14"/></g>
+<rect x="286" y="498" width="44" height="20" rx="10" fill="#E30220"/><text x="308" y="512" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#fff">-18%</text>
+<rect x="282" y="646" width="170" height="10" rx="5" fill="#2a2a2a"/><rect x="282" y="664" width="120" height="10" rx="5" fill="#2a2a2a"/>
+<rect x="282" y="688" width="96" height="14" rx="7" fill="#E30220" opacity=".85"/>
+<rect x="282" y="710" width="60" height="8" rx="4" fill="#2a2a2a"/>
+<rect x="496" y="480" width="212" height="250" rx="16" fill="#222222" stroke="#2e2e2e"/>
+<rect x="506" y="490" width="192" height="140" rx="10" fill="#2b2b2b"/>
+<g transform="translate(562,520) scale(1.0)" fill="none" stroke="#4a4a4a" stroke-width="5" stroke-linejoin="round"><rect x="4" y="16" width="72" height="48" rx="8"/><path d="M24 16l6-10h20l6 10"/><circle cx="40" cy="40" r="14"/></g>
+<rect x="514" y="498" width="44" height="20" rx="10" fill="#E30220"/><text x="536" y="512" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#fff">-12%</text>
+<rect x="510" y="646" width="170" height="10" rx="5" fill="#2a2a2a"/><rect x="510" y="664" width="120" height="10" rx="5" fill="#2a2a2a"/>
+<rect x="510" y="688" width="96" height="14" rx="7" fill="#E30220" opacity=".85"/>
+<rect x="510" y="710" width="60" height="8" rx="4" fill="#2a2a2a"/>
+<rect x="724" y="480" width="212" height="250" rx="16" fill="#222222" stroke="#2e2e2e"/>
+<rect x="734" y="490" width="192" height="140" rx="10" fill="#2b2b2b"/>
+<g transform="translate(790,520) scale(1.0)" fill="none" stroke="#4a4a4a" stroke-width="5" stroke-linejoin="round"><rect x="4" y="16" width="72" height="48" rx="8"/><path d="M24 16l6-10h20l6 10"/><circle cx="40" cy="40" r="14"/></g>
+<rect x="742" y="498" width="44" height="20" rx="10" fill="#E30220"/><text x="764" y="512" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#fff">-30%</text>
+<rect x="738" y="646" width="170" height="10" rx="5" fill="#2a2a2a"/><rect x="738" y="664" width="120" height="10" rx="5" fill="#2a2a2a"/>
+<rect x="738" y="688" width="96" height="14" rx="7" fill="#E30220" opacity=".85"/>
+<rect x="738" y="710" width="60" height="8" rx="4" fill="#2a2a2a"/>
+<rect x="952" y="480" width="212" height="250" rx="16" fill="#222222" stroke="#2e2e2e"/>
+<rect x="962" y="490" width="192" height="140" rx="10" fill="#2b2b2b"/>
+<g transform="translate(1018,520) scale(1.0)" fill="none" stroke="#4a4a4a" stroke-width="5" stroke-linejoin="round"><rect x="4" y="16" width="72" height="48" rx="8"/><path d="M24 16l6-10h20l6 10"/><circle cx="40" cy="40" r="14"/></g>
+<rect x="970" y="498" width="44" height="20" rx="10" fill="#E30220"/><text x="992" y="512" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="800" fill="#fff">-9%</text>
+<rect x="966" y="646" width="170" height="10" rx="5" fill="#2a2a2a"/><rect x="966" y="664" width="120" height="10" rx="5" fill="#2a2a2a"/>
+<rect x="966" y="688" width="96" height="14" rx="7" fill="#E30220" opacity=".85"/>
+<rect x="966" y="710" width="60" height="8" rx="4" fill="#2a2a2a"/>
+</svg>

@@ -1,4 +1,4 @@
-name: Generate profile assets (snake + trophies)
+name: Generate profile assets (snake + trophies + activity)
 
 on:
   schedule:
@@ -34,7 +34,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Publish snake and trophies to output branch
+      - name: Generate 30-day activity graph from real GitHub data
+        run: node scripts/activity.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Publish snake, trophies and activity to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
